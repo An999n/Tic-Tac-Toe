@@ -6,7 +6,7 @@
 So.. It's buildid using 8 functions
 
 ### 1- print_board:
-Function args (*board*)\n
+Function args (*board*)
 Given the board as an argument & it'll just print it as 3x3 Grid in the terminal.
 returning type ** Void **.
 Just printing the board.
