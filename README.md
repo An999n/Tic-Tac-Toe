@@ -1,6 +1,6 @@
 # Title: Tic Tac Toe
 ## Video Demo:  https://www.youtube.com/watch?v=hvPlfAcfjxI
-## Description: a Command line playing Tic Tac Toe with the user
+## Description: Tic Tac Toe Game
 
 ## Functions:-
 So.. It's buildid using 8 functions
