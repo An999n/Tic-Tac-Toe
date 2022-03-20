@@ -23,7 +23,7 @@ return the ***board*** itself with the modification.
 Function args (*number*)
 It checks if the inputted value is a number between 1-9.
 returning type ** bool **
-return ***true*** if the number is between 1-9, or ***false*** is isn't.
+return ***true*** if the number is between 1-9, or ***false*** if isn't.
 
 
 ### 4- validate_input:
